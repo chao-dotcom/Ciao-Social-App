@@ -1,0 +1,38 @@
+.feed-container {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.feed-content {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.end-message {
+  text-align: center;
+  color: #65676b;
+  padding: 20px;
+  font-size: 16px;
+}
+
+.empty-feed {
+  background: white;
+  border-radius: 12px;
+  padding: 60px 40px;
+  text-align: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.empty-feed h2 {
+  color: #1c1e21;
+  margin-bottom: 10px;
+  font-size: 24px;
+}
+
+.empty-feed p {
+  color: #65676b;
+  font-size: 16px;
+}
+
