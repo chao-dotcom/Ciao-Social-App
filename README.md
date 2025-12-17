@@ -1,6 +1,6 @@
 # Ciao Social App
 
-[![Thumbnail](asset/thumbnail.png)](https://youtu.be/nX7Hvwx1Sns)
+[![Thumbnail](asset/thumbnail.png)](https://github.com/user-attachments/assets/dca2e240-e178-47b5-845a-857751ac9550)
 
 A simple social app (React frontend + Express backend) for posting articles, comments, and following users.
 
@@ -37,7 +37,7 @@ npm start
 
 ## Video
 
-Watch a quick demo: https://youtu.be/nX7Hvwx1Sns
+Watch a quick demo: https://github.com/user-attachments/assets/dca2e240-e178-47b5-845a-857751ac9550
 
 ## Contributing
 
